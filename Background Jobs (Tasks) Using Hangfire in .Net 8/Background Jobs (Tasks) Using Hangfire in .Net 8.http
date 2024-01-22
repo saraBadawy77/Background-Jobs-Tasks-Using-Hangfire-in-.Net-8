@@ -1,0 +1,6 @@
+@Background_Jobs__Tasks__Using_Hangfire_in_.Net_8_HostAddress = http://localhost:5096
+
+GET {{Background_Jobs__Tasks__Using_Hangfire_in_.Net_8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
